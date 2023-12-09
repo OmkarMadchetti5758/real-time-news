@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/OmkarMadchetti5758/real-time-news/static/css/main.af8ac0f9.css",
+    "main.js": "/OmkarMadchetti5758/real-time-news/static/js/main.aca74ea8.js",
+    "static/media/Whisper-Regular.ttf": "/OmkarMadchetti5758/real-time-news/static/media/Whisper-Regular.a390ff4ecbd194017f0c.ttf",
+    "index.html": "/OmkarMadchetti5758/real-time-news/index.html",
+    "main.af8ac0f9.css.map": "/OmkarMadchetti5758/real-time-news/static/css/main.af8ac0f9.css.map",
+    "main.aca74ea8.js.map": "/OmkarMadchetti5758/real-time-news/static/js/main.aca74ea8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af8ac0f9.css",
+    "static/js/main.aca74ea8.js"
+  ]
+}
