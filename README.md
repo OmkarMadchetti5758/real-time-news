@@ -24,4 +24,5 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 This is how website looks
-![Screenshot](https://github.com/OmkarMadchetti5758/real-time-news/assets/151734201/9f945ae8-d2c4-4598-b369-b9fc6905da2d)
+
+![Screenshot](https://github.com/OmkarMadchetti5758/real-time-news/assets/151734201/f13d1aca-f6ac-4093-a756-6b065d8fa602)
